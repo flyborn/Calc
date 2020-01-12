@@ -13,6 +13,6 @@ switch(c){
     break;
     case '/': sum = a / b;
     break;
-    default: alert('Неверное значение');
+    default: sum = ('Неверное значение');
 }
 alert(sum);
